@@ -1,0 +1,72 @@
+body {
+  background-color: #c9c4e9; /* Crema cálido, ideal para comida */
+font-size: 16px; /* Tamaño estándar legible */
+
+}
+
+h1 {
+  color: #d32f2f; /* Rojo vibrante inspirado en la comida mexicana */
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+h2 {
+  color: hsl(123, 43%, 39%); /* Verde cilantro fresco */
+  width: 100%;
+}
+
+h3 {
+  color: hsl(240, 100%, 50%); /* Azul celeste */
+  width: 100%;
+}
+
+ul {
+color: #ff0000;
+  width: 100%;
+  text-align: left;
+}
+
+ol {
+ color: #ff0000;
+  width: 100%;
+}
+
+a {
+  color: #D32F2F;
+  display: inline-block;
+  text-decoration: none;
+}
+
+p {
+  color: #6b51ff;
+  text-align: center;
+}
+li {
+ color: #ff0000;
+}
+
+iframe {
+  max-width: 100%;
+  width: 600px;
+  height: 350px;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  margin: 15px 0;
+}
+
+header {
+  background-color: #ff4747; /* Rojo vibrante */
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 5px solid #6b51ff; /* Azul celeste */
+}
+
+section {
+  background-color: #9af152; /* Fondo claro para contraste */
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
